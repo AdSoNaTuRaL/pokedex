@@ -1,0 +1,30 @@
+td,
+th {
+  padding: 4px;
+}
+
+th:first-child,
+td:first-child {
+  text-align: left;
+}
+
+th:last-child,
+td:last-child {
+  text-align: right;
+}
+
+tr.white-theme {
+  color: #000000;
+}
+
+tr.dark-theme {
+  color: #e2e2e2;
+}
+
+tr:nth-child(odd).white-theme {
+  background-color: #dddddd;
+}
+
+tr:nth-child(odd).dark-theme {
+  background-color: #2e2e2e;
+}
