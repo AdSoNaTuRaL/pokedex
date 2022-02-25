@@ -1,12 +1,5 @@
 # POKÉDEX
 
-<div>
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/adsonatural/pokedex" />
-  <img alt="License" src="https://img.shields.io/github/license/adsonatural/pokedex" />
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/adsonatural/pokedex" />
-<div>
-
-##
 
 Hello trainer! In this app you can find the Pokémon you want, see its types and base stats.
 </br>
