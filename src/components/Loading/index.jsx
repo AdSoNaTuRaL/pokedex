@@ -10,7 +10,6 @@ const Loading = () => {
   return (
     <div className={`spinner-container ${theme}`}>
       <img className="spinner" src={loadingSpinner} alt="Loading Spinner" />
-      <h1>text</h1>
     </div>
   );
 };
